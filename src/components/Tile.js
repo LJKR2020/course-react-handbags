@@ -1,5 +1,4 @@
 import React from "react";
-import brand from "../assets/brand.png";
 
 function Tile(props) {
     return <section>

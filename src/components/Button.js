@@ -2,7 +2,7 @@ import React from "react";
 
 function Button(props) {
     return <button
-        type='button'
+        type="button"
         onClick={() => console.log(props.buttonmessage)}
         disabled={props.isdisabled}
     >

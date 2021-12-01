@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 import Button from "./components/Button";
 import Product from "./components/Product";
 import Tile from "./components/Tile";
-import './App.css';
+import "./App.css";
 import bag_1 from "./assets/bag_1.png";
 import bag_2 from "./assets/bag_2.png";
 import bag_3 from "./assets/bag_3.png";
